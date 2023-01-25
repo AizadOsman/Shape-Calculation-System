@@ -1,5 +1,3 @@
-//LAB ASSIGNMENT 3
-
 #include <iostream>
 #include <iomanip>
 #include <cmath>
